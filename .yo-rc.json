@@ -1,0 +1,20 @@
+{
+  "generator-plugin-wp": {
+    "name": "graphql-wp-plugin",
+    "homepage": "http://log4analytics.com",
+    "description": "GraphQL API for WordPress",
+    "version": "0.0.1",
+    "author": "Ming-der Wang",
+    "authoremail": "ming@log4analytics.com",
+    "authorurl": "https://twitter.com/mingderwang",
+    "license": "MIT",
+    "slug": "graphql-wp-plugin",
+    "classname": "Graphql_wp_plugin",
+    "mainclassname": "Graphql_wp_plugin",
+    "classprefix": "G_",
+    "prefix": "graphql_wp_plugin",
+    "year": 2018,
+    "currentVersionWP": "4.8.1",
+    "plugingenversion": "0.20.2"
+  }
+}
